@@ -1,5 +1,5 @@
-package forms;
-import com.sun.jna.platform.win32.Netapi32Util;
+package org.marylin;
+import forms.menu;
 import org.hibernate.Session;
 import org.marylin.Services.GenericServiceImpl;
 import org.marylin.Services.IGenericService;
